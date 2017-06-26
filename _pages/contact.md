@@ -4,15 +4,12 @@ title: Contact
 permalink: /contact
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[kellogg@uw.edu]()  
+[LinkedIn]()
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Ph.D. Student in Wireless Lab UW CSE
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+185 Stevens Way, AC101  
+Paul G. Allen Center, Box 352350  
+Seattle, WA 98125-2350
 
-
-[jekyll-organization]: https://github.com/jekyll
