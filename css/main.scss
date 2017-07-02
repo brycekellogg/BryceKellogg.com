@@ -1,0 +1,38 @@
+---
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+
+
+.header {
+    background-image: url("header-img.jpg");
+    height: 16em;
+}
+
+.navbar-brand h1 {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .active .nav-link {
+    color: white;
+}
+
+.navbar {
+    background: transparent;
+}
+
+.footer {
+    background-color: #1c1c1c;
+    position: absolute;
+    bottom: 1em;
+    width: 100%;
+}
+
+.site-description {
+    color: white;
+}
