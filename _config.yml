@@ -25,6 +25,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /:title/
 include: ["_pages"]
+navbar: ["About", "Publications", "Contact"]
 
 # Build settings
 markdown: kramdown
