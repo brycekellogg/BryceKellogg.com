@@ -26,6 +26,7 @@ github_username:  jekyll
 permalink: /:title/
 include: ["_pages"]
 navbar: ["About", "Publications", "Contact"]
+header-img: "/files/header-img.jpg"
 
 # Build settings
 markdown: kramdown

@@ -96,13 +96,13 @@
 
 
 .banner {
-    background:url(header-img.jpg) no-repeat;
-   background-position:center;
-   background-size:cover;
-   -webkit-background-size:cover;
-   -moz-background-size:cover;
-   -o-background-size:cover;
-   min-height:265px;
+    background:url({{site.header-img}}) no-repeat;
+    background-position:center;
+    background-size:cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    min-height:265px;
 }
 
 
