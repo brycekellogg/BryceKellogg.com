@@ -4,6 +4,13 @@ title: Publications
 permalink: /pub
 ---
 
+#### Battery-Free Cellphone
+
+{:.text-muted}
+Vamsi Talla, Bryce Kellogg, Shyam Gollakota, Joshua R. Smith  
+Ubicomp, September 2017 [(PDF)](/files/battery-free-phone.pdf) [(Website)](http://batteryfreephone.cs.washington.edu/)
+<br /><br />
+
 #### Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices
 
 {:.text-muted}
