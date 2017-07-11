@@ -4,6 +4,13 @@ title: Publications
 permalink: /pub
 ---
 
+#### LoRa Backscatter: Enabling the Vision of Ubiquitous Connectivity
+
+{:.text-muted}
+Vamsi Talla, Mehrdad Hassar, Bryce Kellogg, Ali Najafi, Joshua R. Smith, Shyam Gollakota  
+Ubicomp, September 2017 [(PDF)](/files/lora-backscatter.pdf)
+<br /><br />
+
 #### Battery-Free Cellphone
 
 {:.text-muted}
