@@ -4,6 +4,8 @@ title: About
 permalink: /
 ---
 
+![It's me!](/files/bryce.jpg){:style="float: left; margin-right: 25px;"}
+
 {:.text-muted}
 I am a Ph.D. Student in Electrical Engineering at the University of Washington,
 where I work in the Computer Science & Engineering Wireless and Mobile Systems Lab.
