@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-[kellogg@uw.edu]()  
-[LinkedIn]()
+[kellogg@uw.edu](mailto:kellogg@uw.edu)  
+[LinkedIn](https://www.linkedin.com/in/brycekellogg/)
 
 {:.text-muted}
 Ph.D. Student in Wireless Lab UW CSE
