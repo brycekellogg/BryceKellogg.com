@@ -96,7 +96,7 @@
 
 
 .banner {
-    background:url({{site.header-img}}) no-repeat;
+    background:url(/header-img.jpg) no-repeat;
     background-position:top;
     background-size:cover;
     -webkit-background-size:cover;

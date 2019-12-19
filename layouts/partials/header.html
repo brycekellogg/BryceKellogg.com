@@ -1,6 +1,5 @@
 <div class="navbar-wrapper">
     <div class="container">
-
         <nav class="navbar navbar-inverse navbar-static-top">
             <div class="container">
                 <div class="navbar-header">
@@ -10,21 +9,19 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">{{ site.title }}</a>
+                    <a class="navbar-brand" href="index.html">{{ .Site.Title }}</a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse navbar-right">
                     <ul class="nav navbar-nav link-effect">
-                        {% for navTitle in site.navbar %}
-                            {% assign navPage = site.pages | where: "title",navTitle | first %}
+                        {{ range .Site.Menus.main }}
                             <li>
-                                <a href="{{ navPage.url | relative_url }}">{{ navPage.title | escape }}</a>
+                                <a href="{{ .URL }}">{{ .Name }}</a>
                             </li>
-                        {% endfor %}
+                        {{ end }}
                     </ul>
                 </div>
             </div>
         </nav>
-
     </div>
 </div>
 <!-- Banner -->

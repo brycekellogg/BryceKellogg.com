@@ -1,0 +1,27 @@
+baseURL = "http://brycekellogg.com"
+languageCode = "en-us"
+title = "Bryce Kellogg"
+
+[params]
+  AnalyticsCode = 'UA-55873386-1'
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/Publications/"
+    weight = -100
+                               
+  [[menu.main]]
+    name = "Github"
+    url = "https://github.com/brycekellogg"
+    weight = -90
+
+  [[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/brycekellogg/"
+    weight = -80
