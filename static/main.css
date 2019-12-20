@@ -1,6 +1,7 @@
----
----
-
+img.floatleft {
+    float: left;
+    margin-right: 25px;
+}
 
 .footer {
     position: absolute;
