@@ -1,4 +1,4 @@
-img.floatleft {
+img[src$='floatleft']{
     float: left;
     margin-right: 25px;
 }

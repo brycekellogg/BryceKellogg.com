@@ -1,6 +1,6 @@
 ---
 ---
-<img class="floatleft" src="/bryce.jpg" />
+![Bryce Kellogg](/bryce.jpg#floatleft)
 
 I am a Ph.D. Student in Electrical Engineering at the University of Washington,
 where I work in the Computer Science & Engineering Wireless and Mobile Systems Lab.
