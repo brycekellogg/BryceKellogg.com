@@ -1,5 +1,7 @@
 ## Development
+
 ```shell
+sudo dnf install hugo
 hugo server
 ```
 
