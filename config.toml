@@ -1,6 +1,7 @@
 baseURL = "http://brycekellogg.com"
 languageCode = "en-us"
 title = "Bryce Kellogg"
+publishDir = "docs"
 
 [params]
   AnalyticsCode = 'UA-55873386-1'
@@ -15,7 +16,7 @@ title = "Bryce Kellogg"
     name = "Publications"
     url = "/Publications/"
     weight = -100
-                               
+
   [[menu.main]]
     name = "Github"
     url = "https://github.com/brycekellogg"
