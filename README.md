@@ -15,6 +15,6 @@ push:
 ```shell
 hugo
 git add --all
-git commit
+git commit -m "Regenerate site"
 git push
 ```
