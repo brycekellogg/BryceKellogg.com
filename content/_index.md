@@ -3,9 +3,8 @@
 ![Bryce Kellogg](/bryce.jpg#floatleft)
 
 I am an Electrical Engineer and Computer Scientist with a background in
-Embedded Systems and Wireless Communications. Currently I work as Director of
-Engineering at Jeeva Wireless where we architect and develop state of the art
-ultra-low power communications protocols and platforms.
+Embedded Systems and Wireless Communications. Currently I work as a Senior
+Embedded SW Lead on payload missions at Tethers Unlimited.
 
 I have a Masters in Electrical Engineering from the University of Washington,
 as well as a Bachelors in Electrical Engineering and a Bachelors in Computer
