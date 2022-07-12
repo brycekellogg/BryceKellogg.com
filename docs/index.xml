@@ -5,11 +5,7 @@
     <link>http://brycekellogg.com/</link>
     <description>Recent content on Bryce Kellogg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://brycekellogg.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://brycekellogg.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Patents</title>
       <link>http://brycekellogg.com/patents/</link>
